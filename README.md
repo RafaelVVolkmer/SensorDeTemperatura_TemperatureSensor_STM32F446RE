@@ -1,1 +1,1 @@
-# SensorDeTemperatura_TemperatureSensor_STM32F446RE
+# SensorDeTemperatura_TemperatureSensor_STM32F446R
