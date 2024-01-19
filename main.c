@@ -61,10 +61,10 @@
 
 /* USER CODE BEGIN PV */
 
-uint16_t ADC_Val [2] = {0};
-uint8_t ADC_Flag = 0;
+static uint16_t ADC_Val [2] = { [0...1, 0};
+static uint8_t ADC_Flag = 0;
 
-uint8_t msg[TMSG] = "\r\n- MONITORAMENTO DE TEMPERATURA DA MCU - \r\n\n";
+static uint8_t msg[TMSG] = "\r\n- MONITORAMENTO DE TEMPERATURA DA MCU - \r\n\n";
 
 /* USER CODE END PV */
 
